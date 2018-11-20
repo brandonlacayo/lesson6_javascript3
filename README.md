@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 20, 2018
 
 ### Student Name:  
-(First and Last Name)
+Brandon Lacayo
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The powers of JavaScript when changing an element in an HTML Document.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+github.com/brandonlacayo/lesson6_javascript3/. 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. You can also change or set different values.
+2. You are able to utilize multiple methods as actions.
+3. Elements are basically listed as objects.
 
